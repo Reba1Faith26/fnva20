@@ -1,0 +1,39 @@
+.nav-link{
+    color:black !important;
+    font-weight: bold !important;
+}
+.headerClass{
+    height:150px;
+}
+.letUs{
+    height:300px;
+    color:black;
+}
+.fnvaSm{
+    font-size:22px;
+    margin-top:10px;
+}
+.overLg{
+    text-decoration:underline;
+    font-size:30px;
+}
+.letSm{
+    font-size:15px;
+    margin-top:16px;
+}
+.letUsLg{
+    font-size:18px;
+}
+.cardContainer{
+    margin-top:135px;
+}
+.smRow1{
+    margin-top:10px;
+}
+.overview,.mission{
+    font-size:20px;
+    text-decoration:underline;
+}
+.mission{
+    margin-top:40px;
+}
